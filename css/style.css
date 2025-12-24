@@ -2205,4 +2205,32 @@ hr {
   }
 }
 
+.hero-mascota{
+  width: min(300px, 45vw); /* ↓ achica; prueba 380/400/420 */
+  height: auto;
+  object-fit: contain;
+}
+
+.logo-cmp{
+  display:flex;
+  align-items: start;
+  padding: 0;
+  margin: 0;
+}
+
+.logo-cmp img{
+  height: 50px;        /* prueba 38–52 */
+  width: auto;
+  display: block;
+}
+
+.navbar .container{
+  padding-left: 0px;   /* prueba 0–16 */
+}
+
+.logo-boxes{
+  height: 80px;        /* prueba 38–52 */
+  width: auto;
+  display:inline;
+}
 /*# sourceMappingURL=style.css.map */
