@@ -7,7 +7,7 @@ Small Apps is a clean and modern Free responsive app landing-page template for M
 | [![](screenshots/homepage.png)](https://demo.themefisher.com/small-apps/) | [![](screenshots/homepage-2.png)](http://localhost:3000/homepage-2.html) | [![](screenshots/homepage-3.png)](https://demo.themefisher.com/small-apps/homepage-3.html) |
 |:---:|:---:|:---:|
 | **Homepage 1**  | **Homepage 2**  | **Homepage 3**  |
-| [![](screenshots/about.png)](https://demo.themefisher.com/small-apps/about.html) | [![](screenshots/career.png)](https://demo.themefisher.com/small-apps/career.html) | [![](screenshots/team.png)](https://demo.themefisher.com/small-apps/team.html) |
+| [![](screenshots/about.png)](https://demo.themefisher.com/small-apps/about.html) | [![](screenshots/career.png)](https://demo.themefisher.com/small-apps/career.html) | [![](screenshots/team.png)](https://demo.themefisher.com/small-apps/cmp1.html) |
 | **About** | **Career** | **Team** |
 | [![](screenshots/blog-r.png)](https://demo.themefisher.com/small-apps/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/small-apps/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/small-apps/contact.html) |
 | **Blogs** | **Blog Details** | **Contact** |

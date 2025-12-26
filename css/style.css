@@ -2246,6 +2246,20 @@ hr {
   display: block;
 }
 
+/* LOGO CMP ENERGIA - NAVBAR */
+.navbar .navbar-brand.logo-cmp img.logoenergia{
+  height: 70px !important;   /* prueba 60/70/80 */
+  width: auto !important;
+  max-height: none !important;
+  margin-top: 8px;
+}
+
+.navbar .navbar-brand.logo-cmp img.logoconstrucciones{
+  height: 80px !important;   /* prueba 60/70/80 */
+  width: auto !important;
+  max-height: none !important;
+  margin-top: 8px;
+}
 
 
 /*# sourceMappingURL=style.css.map */
