@@ -2233,4 +2233,19 @@ hr {
   width: auto;
   display:inline;
 }
+.imagen-contactanos{
+  display: flex;
+  justify-content: center; /* izquierda */
+  align-items: center;
+}
+
+.imagen1-contactanos{
+  max-width: 350px;  /* ajusta */
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+
 /*# sourceMappingURL=style.css.map */
