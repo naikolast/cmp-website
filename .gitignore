@@ -12,3 +12,4 @@
 # Env (si algún día usas)
 .env
 .env.*
+images/CONSTRUCCIONES/*.mp4
