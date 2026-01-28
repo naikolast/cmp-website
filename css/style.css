@@ -2261,5 +2261,16 @@ hr {
   margin-top: 8px;
 }
 
+.hero-what{
+  width: min(300px, 45vw); /* ↓ achica; prueba 380/400/420 */
+  height: auto;
+  object-fit: contain;
+}
 
+.hero-how{
+  width: min(300px, 45vw); /* ↓ achica; prueba 380/400/420 */
+  height: auto;
+  object-fit: contain;
+  margin-left: 100px;
+}
 /*# sourceMappingURL=style.css.map */
